@@ -1,0 +1,20 @@
+h1{
+	color: red;
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+
+	border: 8px dashed rgb(100,18,209) ;
+}
+li{
+	color: green;
+}
+h4{
+	background: rgb(100,18,209);
+}
+body{
+	background: pink;
+	/*background: url(https://images.fabric.com/images/693/693/EB-962.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
